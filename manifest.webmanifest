@@ -1,7 +1,7 @@
 {
-  "name": "Carta Celeste 3D",
-  "short_name": "Carta Celeste",
-  "description": "Planetário interativo em português: o céu real de qualquer lugar, a qualquer hora.",
+  "name": "Luneta",
+  "short_name": "Luneta",
+  "description": "Luneta: o nome lembra a luneta com que Galileu observou o céu em 1609-1610. Planetário interativo em português: o céu real de qualquer lugar, a qualquer hora.",
   "lang": "pt-BR",
   "start_url": "./",
   "scope": "./",
@@ -13,7 +13,7 @@
   "icons": [
     { "src": "icone-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "icone-512.png", "sizes": "512x512", "type": "image/png" },
-    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icone-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
     { "src": "icone.svg", "sizes": "any", "type": "image/svg+xml" }
   ]
 }
