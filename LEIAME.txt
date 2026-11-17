@@ -1,13 +1,17 @@
-Luneta - app para celular (PWA)
+Luneta 2 - app para celular (PWA)
 O nome Luneta lembra a luneta com que Galileu Galilei observou o ceu em 1609 e 1610.
 Professor Dr. Pedro Sergio Rosa - ICT/CPS-Fatec-Tatui/SP
 
-Esta pasta e um app web instalavel: pode ir para qualquer hospedagem gratuita com https.
-Exemplo com GitHub Pages:
- 1. Crie um repositorio publico no GitHub (ex.: planetario-ictcps).
- 2. Envie TODOS os arquivos desta pasta para a raiz do repositorio (botao "Add file > Upload files").
- 3. Em Settings > Pages, escolha "Deploy from a branch", branch main, pasta / (root), e salve.
- 4. Em 1 ou 2 minutos o endereco aparece la (ex.: https://SEU-USUARIO.github.io/planetario-ictcps/).
-No celular, abra o endereco e use "Instalar app" (Chrome/Android) ou
-Compartilhar > "Adicionar a Tela de Inicio" (Safari/iPhone). Depois da primeira abertura funciona sem internet.
-Para atualizar: substitua o index.html e mude o nome do cache em sw.js (planetario-ictcps-v7 -> v8).
+Versao 2: paisagem, Via Lactea, atmosfera e crepusculo, figuras das constelacoes,
+mira (0,5, 2 e 4 graus), rosa dos ventos, relogio "Hoje a noite" e menu de camadas.
+
+Para publicar SEM mexer na versao 1 (recomendado):
+ 1. No repositorio luneta, clique em "Add file > Upload files".
+ 2. Arraste a PASTA "v2" inteira (do zip) para a janela de envio e confirme (Commit changes).
+ 3. A versao 2 fica em https://pedrorosa-blip.github.io/luneta/v2/
+    e a versao 1 continua em https://pedrorosa-blip.github.io/luneta/
+ 4. No celular, abra o endereco da v2 e use "Instalar app" ou "Adicionar a Tela de Inicio".
+    Ela aparece como "Luneta 2", separada da versao 1.
+
+Para atualizar a v2 depois: substitua o index.html e mude o nome do cache em sw.js
+(planetario-ictcps-2-v9 -> planetario-ictcps-2-v10).
